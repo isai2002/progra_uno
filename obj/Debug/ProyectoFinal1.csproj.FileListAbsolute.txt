@@ -1,0 +1,38 @@
+C:\Users\user\source\repos\ProyectoFinal1\bin\Debug\ProyectoFinal1.exe.config
+C:\Users\user\source\repos\ProyectoFinal1\bin\Debug\ProyectoFinal1.exe
+C:\Users\user\source\repos\ProyectoFinal1\bin\Debug\ProyectoFinal1.pdb
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.Properties.Resources.resources
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.exe
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.pdb
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.Login.resources
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.Reservaciones.resources
+C:\Users\user\source\repos\ProyectoFinal1\obj\Debug\ProyectoFinal1.FormAdmi.resources
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\bin\Debug\ProyectoFinal1.exe.config
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\bin\Debug\ProyectoFinal1.exe
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\bin\Debug\ProyectoFinal1.pdb
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.AssemblyReference.cache
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.FormAdmi.resources
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.Login.resources
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.Properties.Resources.resources
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.Reservaciones.resources
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.GenerateResource.cache
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.csproj.CoreCompileInputs.cache
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.exe
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.pdb
+C:\Users\dm839\Desktop\proyectoprogramacion\ProyectoFinal1\obj\Debug\ProyectoFinal1.Solicitudes.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\bin\Debug\ProyectoFinal1.exe.config
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\bin\Debug\ProyectoFinal1.exe
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\bin\Debug\ProyectoFinal1.pdb
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.csproj.AssemblyReference.cache
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.FormAdmi.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.Login.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.Properties.Resources.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.Reservaciones.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.Solicitudes.resources
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.csproj.GenerateResource.cache
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.csproj.CoreCompileInputs.cache
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.exe
+C:\Users\dm839\Desktop\ProyectoFinal1 editado\obj\Debug\ProyectoFinal1.pdb

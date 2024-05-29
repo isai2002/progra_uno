@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|c:\\users\\dm839\\desktop\\proyectofinal1 editado\\reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|c:\\users\\dm839\\desktop\\proyectofinal1 editado\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6359AE-643A-43D4-87DC-2CFC4C472325}|ProyectoFinal1.csproj|solutionrelative:datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 134,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservaciones.cs",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Reservaciones.cs",
+              "RelativeDocumentMoniker": "Reservaciones.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Reservaciones.cs",
+              "RelativeToolTip": "Reservaciones.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:37:24.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Reservaciones.cs",
+              "RelativeDocumentMoniker": "Reservaciones.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Reservaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reservaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:21:25.28Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Datos.cs",
+              "RelativeDocumentMoniker": "Datos.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Datos.cs",
+              "RelativeToolTip": "Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:03:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:58:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:56:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:04:10.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdmi.cs",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\FormAdmi.cs",
+              "RelativeDocumentMoniker": "FormAdmi.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\FormAdmi.cs",
+              "RelativeToolTip": "FormAdmi.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:55:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmi.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\FormAdmi.cs",
+              "RelativeDocumentMoniker": "FormAdmi.cs",
+              "ToolTip": "C:\\Users\\dm839\\Desktop\\ProyectoFinal1 editado\\FormAdmi.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAdmi.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:00:43.51Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
